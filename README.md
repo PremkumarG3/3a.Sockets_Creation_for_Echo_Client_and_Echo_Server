@@ -9,8 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
-Developed by:PREM KUMAR G
-Register number:212223230158
+##### Developed by:PREM KUMAR G
+##### Register number:212223230158
 ![3A-Program](https://github.com/user-attachments/assets/6e05118e-bd0f-4819-b3b7-5532a55ff857)
 
 ## OUPUT:
